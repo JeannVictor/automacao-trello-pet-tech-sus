@@ -1,0 +1,14 @@
+{
+    "1": [
+        {
+            "nome": "Nome completo do membro",
+            "username": "usuario_no_trello",
+            "id": "id_do_membro_no_trello",
+            "apelidos": [
+                "nome usado na planilha"
+            ]
+        }
+    ],
+    "2": [],
+    "3": []
+}

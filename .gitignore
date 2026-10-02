@@ -1,0 +1,19 @@
+# Credenciais e configurações locais sensíveis
+.env
+config/membros.json
+
+# Ambiente virtual e caches do Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dados temporários e relatórios que podem conter informações do projeto
+planilha_tsv/
+relatorios/*.json
+
+# Arquivos de editor e sistema operacional
+.vscode/
+.idea/
+.DS_Store
